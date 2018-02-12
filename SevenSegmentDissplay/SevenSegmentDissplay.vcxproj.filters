@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="SevenSegmentDissplay.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.SevenSegmentDissplay.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
